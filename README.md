@@ -8,9 +8,13 @@
 3.In the Vscode terminal,type npm start
 
 4.Download Intellij(https://www.jetbrains.com/idea/)
-Open thr file "StudentSpringboot" in intellij
-Run the file
 
-Remember to download and install mongodb compass
+5.Open thr file "StudentSpringboot" in intellij
+
+
+6.Run the file
+
+
+7.Remember to download and install mongodb compass
 Connect mongodb compass
 
